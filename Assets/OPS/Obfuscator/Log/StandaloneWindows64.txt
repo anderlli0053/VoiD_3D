@@ -4424,3 +4424,165 @@
 [Info][OPS.OBF][OnPostBuild] Process component Assembly Backup Restore
 [Debug][OPS.OBF][OnPostBuild] Unload Pipeline Components
 [Debug][OPS.OBF][OnPostBuild] Unload DataContainer
+[Info][OPS.OBF][Setup] Start 'PostBuild' process.
+[Debug][OPS.OBF][Setup] Load Data Container
+[Debug][OPS.OBF][Setup] Load Pipeline Components
+[Debug][OPS.OBF][Setup] Found Components (1):
+  - Assembly Backup Restore (Restores the backuped assemblies.)
+
+[Info][OPS.OBF][OnPostBuild] Process component Assembly Backup Restore
+[Debug][OPS.OBF][OnPostBuild] Unload Pipeline Components
+[Debug][OPS.OBF][OnPostBuild] Unload DataContainer
+[Info][OPS.OBF][Setup] Start 'PostBuild' process.
+[Debug][OPS.OBF][Setup] Load Data Container
+[Debug][OPS.OBF][Setup] Load Pipeline Components
+[Debug][OPS.OBF][Setup] Found Components (1):
+  - Assembly Backup Restore (Restores the backuped assemblies.)
+
+[Info][OPS.OBF][OnPostBuild] Process component Assembly Backup Restore
+[Debug][OPS.OBF][OnPostBuild] Unload Pipeline Components
+[Debug][OPS.OBF][OnPostBuild] Unload DataContainer
+[Info][OPS.OBF][Setup] Start 'PostBuild' process.
+[Debug][OPS.OBF][Setup] Load Data Container
+[Debug][OPS.OBF][Setup] Load Pipeline Components
+[Debug][OPS.OBF][Setup] Found Components (1):
+  - Assembly Backup Restore (Restores the backuped assemblies.)
+
+[Info][OPS.OBF][OnPostBuild] Process component Assembly Backup Restore
+[Debug][OPS.OBF][OnPostBuild] Unload Pipeline Components
+[Debug][OPS.OBF][OnPostBuild] Unload DataContainer
+[Info][OPS.OBF][Setup] Start 'PostBuild' process.
+[Debug][OPS.OBF][Setup] Load Data Container
+[Debug][OPS.OBF][Setup] Load Pipeline Components
+[Debug][OPS.OBF][Setup] Found Components (1):
+  - Assembly Backup Restore (Restores the backuped assemblies.)
+
+[Info][OPS.OBF][OnPostBuild] Process component Assembly Backup Restore
+[Debug][OPS.OBF][OnPostBuild] Unload Pipeline Components
+[Debug][OPS.OBF][OnPostBuild] Unload DataContainer
+[Info][OPS.OBF][Setup] Start 'PostBuild' process.
+[Debug][OPS.OBF][Setup] Load Data Container
+[Debug][OPS.OBF][Setup] Load Pipeline Components
+[Debug][OPS.OBF][Setup] Found Components (1):
+  - Assembly Backup Restore (Restores the backuped assemblies.)
+
+[Info][OPS.OBF][OnPostBuild] Process component Assembly Backup Restore
+[Debug][OPS.OBF][OnPostBuild] Unload Pipeline Components
+[Debug][OPS.OBF][OnPostBuild] Unload DataContainer
+[Info][OPS.OBF][Setup] Start 'PostBuild' process.
+[Debug][OPS.OBF][Setup] Load Data Container
+[Debug][OPS.OBF][Setup] Load Pipeline Components
+[Debug][OPS.OBF][Setup] Found Components (1):
+  - Assembly Backup Restore (Restores the backuped assemblies.)
+
+[Info][OPS.OBF][OnPostBuild] Process component Assembly Backup Restore
+[Debug][OPS.OBF][OnPostBuild] Unload Pipeline Components
+[Debug][OPS.OBF][OnPostBuild] Unload DataContainer
+[Info][OPS.OBF][Setup] Start 'PostBuild' process.
+[Debug][OPS.OBF][Setup] Load Data Container
+[Debug][OPS.OBF][Setup] Load Pipeline Components
+[Debug][OPS.OBF][Setup] Found Components (1):
+  - Assembly Backup Restore (Restores the backuped assemblies.)
+
+[Info][OPS.OBF][OnPostBuild] Process component Assembly Backup Restore
+[Debug][OPS.OBF][OnPostBuild] Unload Pipeline Components
+[Debug][OPS.OBF][OnPostBuild] Unload DataContainer
+[Info][OPS.OBF][Setup] Start 'PostBuild' process.
+[Debug][OPS.OBF][Setup] Load Data Container
+[Debug][OPS.OBF][Setup] Load Pipeline Components
+[Debug][OPS.OBF][Setup] Found Components (1):
+  - Assembly Backup Restore (Restores the backuped assemblies.)
+
+[Info][OPS.OBF][OnPostBuild] Process component Assembly Backup Restore
+[Debug][OPS.OBF][OnPostBuild] Unload Pipeline Components
+[Debug][OPS.OBF][OnPostBuild] Unload DataContainer
+[Info][OPS.OBF][Setup] Start 'PostBuild' process.
+[Debug][OPS.OBF][Setup] Load Data Container
+[Debug][OPS.OBF][Setup] Load Pipeline Components
+[Debug][OPS.OBF][Setup] Found Components (1):
+  - Assembly Backup Restore (Restores the backuped assemblies.)
+
+[Info][OPS.OBF][OnPostBuild] Process component Assembly Backup Restore
+[Debug][OPS.OBF][OnPostBuild] Unload Pipeline Components
+[Debug][OPS.OBF][OnPostBuild] Unload DataContainer
+[Info][OPS.OBF][Setup] Start 'PostBuild' process.
+[Debug][OPS.OBF][Setup] Load Data Container
+[Debug][OPS.OBF][Setup] Load Pipeline Components
+[Debug][OPS.OBF][Setup] Found Components (1):
+  - Assembly Backup Restore (Restores the backuped assemblies.)
+
+[Info][OPS.OBF][OnPostBuild] Process component Assembly Backup Restore
+[Debug][OPS.OBF][OnPostBuild] Unload Pipeline Components
+[Debug][OPS.OBF][OnPostBuild] Unload DataContainer
+[Info][OPS.OBF][Setup] Start 'PostBuild' process.
+[Debug][OPS.OBF][Setup] Load Data Container
+[Debug][OPS.OBF][Setup] Load Pipeline Components
+[Debug][OPS.OBF][Setup] Found Components (1):
+  - Assembly Backup Restore (Restores the backuped assemblies.)
+
+[Info][OPS.OBF][OnPostBuild] Process component Assembly Backup Restore
+[Debug][OPS.OBF][OnPostBuild] Unload Pipeline Components
+[Debug][OPS.OBF][OnPostBuild] Unload DataContainer
+[Info][OPS.OBF][Setup] Start 'PostBuild' process.
+[Debug][OPS.OBF][Setup] Load Data Container
+[Debug][OPS.OBF][Setup] Load Pipeline Components
+[Debug][OPS.OBF][Setup] Found Components (1):
+  - Assembly Backup Restore (Restores the backuped assemblies.)
+
+[Info][OPS.OBF][OnPostBuild] Process component Assembly Backup Restore
+[Debug][OPS.OBF][OnPostBuild] Unload Pipeline Components
+[Debug][OPS.OBF][OnPostBuild] Unload DataContainer
+[Info][OPS.OBF][Setup] Start 'PostBuild' process.
+[Debug][OPS.OBF][Setup] Load Data Container
+[Debug][OPS.OBF][Setup] Load Pipeline Components
+[Debug][OPS.OBF][Setup] Found Components (1):
+  - Assembly Backup Restore (Restores the backuped assemblies.)
+
+[Info][OPS.OBF][OnPostBuild] Process component Assembly Backup Restore
+[Debug][OPS.OBF][OnPostBuild] Unload Pipeline Components
+[Debug][OPS.OBF][OnPostBuild] Unload DataContainer
+[Info][OPS.OBF][Setup] Start 'PostBuild' process.
+[Debug][OPS.OBF][Setup] Load Data Container
+[Debug][OPS.OBF][Setup] Load Pipeline Components
+[Debug][OPS.OBF][Setup] Found Components (1):
+  - Assembly Backup Restore (Restores the backuped assemblies.)
+
+[Info][OPS.OBF][OnPostBuild] Process component Assembly Backup Restore
+[Debug][OPS.OBF][OnPostBuild] Unload Pipeline Components
+[Debug][OPS.OBF][OnPostBuild] Unload DataContainer
+[Info][OPS.OBF][Setup] Start 'PostBuild' process.
+[Debug][OPS.OBF][Setup] Load Data Container
+[Debug][OPS.OBF][Setup] Load Pipeline Components
+[Debug][OPS.OBF][Setup] Found Components (1):
+  - Assembly Backup Restore (Restores the backuped assemblies.)
+
+[Info][OPS.OBF][OnPostBuild] Process component Assembly Backup Restore
+[Debug][OPS.OBF][OnPostBuild] Unload Pipeline Components
+[Debug][OPS.OBF][OnPostBuild] Unload DataContainer
+[Info][OPS.OBF][Setup] Start 'PostBuild' process.
+[Debug][OPS.OBF][Setup] Load Data Container
+[Debug][OPS.OBF][Setup] Load Pipeline Components
+[Debug][OPS.OBF][Setup] Found Components (1):
+  - Assembly Backup Restore (Restores the backuped assemblies.)
+
+[Info][OPS.OBF][OnPostBuild] Process component Assembly Backup Restore
+[Debug][OPS.OBF][OnPostBuild] Unload Pipeline Components
+[Debug][OPS.OBF][OnPostBuild] Unload DataContainer
+[Info][OPS.OBF][Setup] Start 'PostBuild' process.
+[Debug][OPS.OBF][Setup] Load Data Container
+[Debug][OPS.OBF][Setup] Load Pipeline Components
+[Debug][OPS.OBF][Setup] Found Components (1):
+  - Assembly Backup Restore (Restores the backuped assemblies.)
+
+[Info][OPS.OBF][OnPostBuild] Process component Assembly Backup Restore
+[Debug][OPS.OBF][OnPostBuild] Unload Pipeline Components
+[Debug][OPS.OBF][OnPostBuild] Unload DataContainer
+[Info][OPS.OBF][Setup] Start 'PostBuild' process.
+[Debug][OPS.OBF][Setup] Load Data Container
+[Debug][OPS.OBF][Setup] Load Pipeline Components
+[Debug][OPS.OBF][Setup] Found Components (1):
+  - Assembly Backup Restore (Restores the backuped assemblies.)
+
+[Info][OPS.OBF][OnPostBuild] Process component Assembly Backup Restore
+[Debug][OPS.OBF][OnPostBuild] Unload Pipeline Components
+[Debug][OPS.OBF][OnPostBuild] Unload DataContainer
