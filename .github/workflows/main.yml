@@ -5,7 +5,7 @@ on: [push, pull_request]
 jobs:
   build:
     name: Build my project ✨
-    runs-on: windows-latest
+    runs-on: windows-2022
     steps:
       # Checkout (without LFS)
       - name: Checkout repository
